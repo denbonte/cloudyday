@@ -1,0 +1,3 @@
+# repo specific: ignore dicom download folder and log folder (too system specific)
+dicom*
+log*
