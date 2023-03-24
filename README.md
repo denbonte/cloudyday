@@ -8,7 +8,7 @@ Dummy benchmarking for common Google Storage Buckets download tools (`s5cmd`, `g
 ## Google Colab
 If you don't want to install or configure anything on your local system, check out the benchmarking in this Colab notebook 👇
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/denbonte/cloudyday/blob/main/notebooks/download_benchmark.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/denbonte/cloudyday/blob/main/notebooks/download_benchmark.ipynb)
 
 ## Local Node
 To run the benchmark on your local node, you will need to install Google's `gsutil` and `gcloud`, both part of the `google-cloud-sdk` that can be installed (and configured) following [this guide](https://cloud.google.com/storage/docs/gsutil_install).
